@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    background-color:aliceblue;
+}
+h1{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding: 15px;
+    border: 20px;
+    margin: 20px;
+    width: 100%;
+}
+h2{
+    color: aquamarine;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 15px;
+    border: 20px;
+    margin: 20px;
+    width: 100%;
+}
+ul{
+    padding: 15px;
+    border: 20px;
+    margin: 20px;
+    color: black;
+    font-weight: bold;
+}
